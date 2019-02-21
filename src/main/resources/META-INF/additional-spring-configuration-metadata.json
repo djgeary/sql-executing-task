@@ -1,0 +1,14 @@
+{"groups": [
+	{
+      "name": "sqlexecutor",
+      "type": "sqlexecutorTYPE"
+    }
+],"properties": [
+    {
+      	"sourceType": "sqlexecutorTYPE",
+      	"name": "sqlscript",
+      	"type": "java.lang.String",
+      	"description": "The sql script resource to execute. Example classpath:/scripts/script.sql or file:///C:/test-scripts/script.sql"
+    }
+],"hints": [
+]}
